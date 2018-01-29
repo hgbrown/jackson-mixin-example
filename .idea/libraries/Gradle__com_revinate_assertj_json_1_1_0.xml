@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revinate:assertj-json:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revinate/assertj-json/1.1.0/b2448ba774a844472206bf56f2ddaf2388cee4d/assertj-json-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revinate/assertj-json/1.1.0/42480a0e90f86dd089aa4326be6ad0c0c4213e3f/assertj-json-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
